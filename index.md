@@ -7,7 +7,7 @@ layout: default
 
 ### Creative Idea:
 
-The course should include more video tutorials to help COMP110 students reinforce concepts taught in lecture. This will make it easier for students to get help outside of office hours if they cannot make an appointment.
+The course should include more video tutorials to help COMP110 students reinforce concepts taught in lecture.
 
 ### Idea Value:
 
