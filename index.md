@@ -17,7 +17,7 @@ This idea is valuable because if video tutorials are effective, students are abl
 
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
-<img src="./static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="100"/>
+<img src="./static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="100" style="border: 2px solid black; background: white/>
 
 ## Figure 1
 <img src="./static/imgs/figure_1.png" alt="Image of bar graph showing how helpful students think prelecture videos are." width="400" style="border: 2px solid black"/>
