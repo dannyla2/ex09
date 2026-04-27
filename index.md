@@ -3,6 +3,8 @@
 layout: default
 ---
 
+<body style="background-color: #FFB06B;"></body>
+
 # Data Analysis for Increased Video Tutorials
 
 ### Creative Idea:
