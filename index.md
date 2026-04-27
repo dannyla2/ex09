@@ -24,13 +24,13 @@ This idea is valuable because if video tutorials are effective, students are abl
 According to the visualization, many students would find pre-lecture videos to be helpful.
 
 ## Figure 2
-<img src="./static/imgs/figure_2.png" alt="Image of graph showing the relationship between students' perceived class pace adn degree of agreement with having pre-lecture videos." width="500"/>
+<img src="./static/imgs/figure_2.png" alt="Image of graph showing the relationship between students' perceived class pace adn degree of agreement with having pre-lecture videos." width="500" style="border: 2px solid black"/>
 
 
 Students who find the class to have a rapid pace also responded that they would like to have pre-lecture videos. This further provides support for recording video tutorials, as students would be able to rewatch videos and proceed at their own pace.
 
 ## Figure 3
-<img src="./static/imgs/figure_3.png" alt="Image of graph showing relationship between students' understanding and their perceieved effectiveness of lesson videos." width="1500"/>
+<img src="./static/imgs/figure_3.png" alt="Image of graph showing relationship between students' understanding and their perceieved effectiveness of lesson videos." width="1500" style="border: 2px solid black"/>
 
 
 Students who found the lesson videos to be more effective generally had higher levels of understanding as indiciated by a greater quantity of responses for understanding with values ≥ 4.
