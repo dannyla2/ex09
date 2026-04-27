@@ -3,7 +3,16 @@
 layout: default
 ---
 
-# COMP110 EX09
+# Data Analysis for Increased Video Tutorials
+
+### Creative Idea:
+
+The course should include more video tutorials to help COMP110 students reinforce concepts taught in lecture. This will make it easier for students to get help outside of office hours if they cannot make an appointment.
+
+### Idea Value:
+
+This idea is valuable because if video tutorials are effective, students are able to learn content covered in class anywhere, anytime, at their own convenience. This idea has the potential to be beneficial for all COMP110 students. Even a simple change such as recording lectures and uploading them to the course website can improve the accessibility of lesson to students who may have to miss class, or are unable to keep up with lecture. It will also benefit students who struggle to understand notes from reading the posted slides by having a video to guide them through the material.
+
 
 <!-- This is a comment. Below, you'll see code for inserting an image. To make this image appear, update <custom-path>. To add an image, save it inside the imgs folder of this repository. -->
 <img src="./static/imgs/logo.png" alt="Image of Comp110 rainbow logo. "  width="500"/>
@@ -21,7 +30,7 @@ According to the visualization, many students would find pre-lecture videos to b
 Students who find the class to have a rapid pace also responded that they would like to have pre-lecture videos. This further provides support for recording video tutorials, as students would be able to rewatch videos and proceed at their own pace.
 
 ## Figure 3
-<img src="./static/imgs/figure_3.png" alt="Image of graph showing relationship between students' understanding and their perceieved effectiveness of lesson videos." width="1000"/>
+<img src="./static/imgs/figure_3.png" alt="Image of graph showing relationship between students' understanding and their perceieved effectiveness of lesson videos." width="1500"/>
 
 
 Students who found the lesson videos to be more effective generally had higher levels of understanding as indiciated by a greater quantity of responses for understanding with values ≥ 4.
